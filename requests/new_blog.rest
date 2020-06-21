@@ -1,0 +1,10 @@
+POST http://localhost:3002/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRhdG94eCIsImlkIjoiNWVhMzIxNDI2NDczYmMzNDUwODc5OWFlIiwiaWF0IjoxNTg3NzYzNTYwfQ.U-J5o69gEgICFq8KBx95OEVxyMzMrtd5TPP0xfO7DyQ
+
+{
+    "title": "Filosofia presocratica",
+    "author": "Platon",
+    "url": "http/yosi.com",
+    "likes": 120
+}

@@ -1,0 +1,6 @@
+POST http://localhost:3002/api/users/confirmation
+Content-Type: Application/json
+
+{
+    "token": "7bf964b899513eff9da1d7b26702ea78"
+}

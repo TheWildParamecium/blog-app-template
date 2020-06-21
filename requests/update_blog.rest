@@ -1,0 +1,10 @@
+PUT http://localhost:3002/api/blogs/5ea3224fbe0ef30b3c9e3336
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRhdG94eCIsImlkIjoiNWVhMzIxNDI2NDczYmMzNDUwODc5OWFlIiwiaWF0IjoxNTg3NzQ5MTkyfQ.z5d0fnUAWdNIYjykORKG09WdV1PNZQGDHPaDYeOB8is
+
+{
+    "title": "Actualizada. Nota para borrar",
+    "author": "Actualizada. Yo mismo",
+    "url": "http/yomismo.com",
+    "likes": 555
+}
